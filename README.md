@@ -274,6 +274,14 @@ The analysis enables the business to:
 
 ---
 
+
+## SQL Files
+
+- [analysis.sql](sql/analysis.sql) – All SQL queries used for data exploration and analysis  
+- [schema.sql](sql/schema.sql) – SQL schema defining tables and their structure
+
+---
+
 ## Credits
 
 Project inspired by real-world business cases and SQL-based data analytics challenges.
