@@ -282,6 +282,11 @@ The analysis enables the business to:
 
 ---
 
+
+### Blog
+ - Read the full in-depth blog [here](https://medium.com/@adityakumbhar915/brewing-success-a-data-driven-expansion-strategy-for-monday-coffee-2b004d7c9ded).
+
+---
 ## Credits
 
 Project inspired by real-world business cases and SQL-based data analytics challenges.
