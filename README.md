@@ -4,7 +4,7 @@
 
 **Monday Coffee**, an online coffee retailer, is planning to expand its operations by opening physical coffee shops in three of India's top cities. Since its launch in **January 2023**, the company has seen strong online sales and positive customer feedback across multiple cities. As a Data Analyst, your role is to analyze the sales data and recommend the top three cities for expansion based on data-driven insights.
 
-This project uses SQL (MySQL/PostgreSQL) to perform exploratory data analysis (EDA) on the available datasets and generate business recommendations.
+This project uses SQL (MySQL) to perform exploratory data analysis (EDA) on the available datasets and generate business recommendations.
 
 ---
 
